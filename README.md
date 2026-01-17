@@ -61,11 +61,6 @@ Analyzed customer segments contributing most to profit
 
 Observed sales and profit trends over time
 
-🚀 How to Use This Project
-
-Download or clone this repository
-
-git clone https://github.com/your-username/your-repo-name.git
 
 
 Open Power Bi Assignment Answers.pbix in Power BI Desktop
