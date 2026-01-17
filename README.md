@@ -1,81 +1,58 @@
 # Power-BI-Super-store-data-project
 
 📊 Power BI Sales Analysis – Global Superstore
-📝 Project Overview
+📝 Project Description
 
-This project is a Power BI data analytics assignment based on the Global Superstore dataset.
-The goal of this project is to analyze sales performance, profitability, customer behavior, and regional trends using interactive Power BI dashboards.
+This project is a Power BI data analytics assignment built using the Global Superstore dataset.
+The objective is to analyze sales, profit, customer segments, product performance, and regional trends through interactive dashboards and meaningful insights.
 
-📁 Files in This Repository
+📁 Repository Contents
 File Name	Description
-Global Superstore (3).xlsx	Raw dataset containing sales, customer, product, and regional data
-Power Bi Assignment Answers.pbix	Power BI report with data model, visuals, and insights
+Global Superstore (3).xlsx	Source dataset containing sales, customer, product, and regional data
+Power Bi Assignment Answers.pbix	Power BI dashboard with data model, DAX measures, and visualizations
 README.md	Project documentation
-🛠️ Tools & Technologies Used
+🛠️ Tools & Technologies
 
 Power BI Desktop
 
 Microsoft Excel
 
-Data Visualization
+DAX (Data Analysis Expressions)
 
-Business Intelligence Concepts
+Data Visualization & Business Intelligence
 
-DAX (Calculated Measures)
-
-📊 Dataset Description
+📊 Dataset Overview
 
 The Global Superstore dataset includes:
 
-Order Details (Order ID, Order Date, Ship Date)
+Order ID, Order Date, Ship Date
 
-Customer Information
+Customer Name, Segment, Region, Market
 
-Product Categories & Sub-Categories
+Product Category & Sub-Category
 
-Sales, Profit, Discount, Quantity
+Sales, Profit, Quantity, Discount
 
-Regional & Market-level data
+📈 Dashboard Highlights
 
-📈 Dashboard Features
+The Power BI report provides:
 
-The Power BI report includes:
+📌 Key KPIs: Total Sales, Total Profit, Quantity
 
-📌 Total Sales, Profit, and Quantity KPIs
+🌍 Region and Market-wise performance
 
-🌍 Regional & Market-wise performance analysis
+🛒 Category & Sub-Category analysis
 
-🛒 Category and Sub-Category sales comparison
+👥 Customer segment insights
 
-👥 Customer segment analysis
-
-📅 Time-based trends (Year / Month)
+📅 Year-wise and Month-wise sales trends
 
 🔍 Key Insights
 
 Identified top-performing regions and products
 
-Highlighted loss-making categories and markets
+Highlighted loss-making sub-categories
 
-Analyzed customer segments contributing most to profit
+Analyzed profitable customer segments
 
-Observed sales and profit trends over time
-
-
-
-Open Power Bi Assignment Answers.pbix in Power BI Desktop
-
-Ensure Global Superstore (3).xlsx is in the same folder
-(Update data source path if required)
-
-Refresh the data and explore the dashboard
-
-📌 Learning Outcomes
-
-Hands-on experience with Power BI
-
-Data cleaning and transformation
-
-Creating meaningful business dashboards
-
-Applying analytical thinking to real-world data
+Observed seasonal and yearly sales trendsorld data
